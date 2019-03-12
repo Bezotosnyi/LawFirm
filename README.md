@@ -20,3 +20,5 @@
 ![Report Form](doc/images/ReportForm.png)
 
 ![Protocol Form](doc/images/ProtocolForm.png)
+
+![Database Diagram](doc/images/DatabaseDiagram.png)
